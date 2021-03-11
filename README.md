@@ -1,3 +1,3 @@
 # MemoryGameStudy
 
-##Choregraphe files for the memory game
+## Choregraphe files for the memory game
